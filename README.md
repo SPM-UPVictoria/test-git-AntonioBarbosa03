@@ -6,4 +6,4 @@
 <br>
 
 ## **Listado de codigos:**
-### 1. [**Codigo 6: Valid Float**](Script6.md)
+### 1. [**Codigo 6: Valid Float**](Script6/Script6.md)

@@ -6,7 +6,7 @@ El codigo 6 tiene la funcion de validar el formato de un numero flotante indican
 ### **Requerimientos**
 Este codigo requiere de el codgio 5 "ValidInt" para funcionar correctamente
 
-### **Codigo 5: Valid Int**
+### **[Codigo 5: Valid Int](validInt5.sh)**
 
 ```bash
 #!/bin/bash
@@ -59,7 +59,7 @@ exit 0
 ### **Anotaciones**
 Este codigo funciono de forma directa y no fue necesario corregirlo
 
-### **Codigo 6: Valid Float**
+### **[Codigo 6: Valid Float](validateFloat6.sh)**
 
 ```bash
 #!/bin/bash
@@ -124,4 +124,4 @@ $ validfloat 1.0344e22
 Invalid number format! Only digits, no commas, spaces, etc.
 ```
 
-**[Regresar](README.md)**
+**[Regresar](../README.md)**
