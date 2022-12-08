@@ -1,7 +1,7 @@
 # Codigo 6 Valid Float
 
 ## Funcionalidad
-El codigo 6 tiene la funcion de validar el formato de un numero flotante indicando si este es valido o no.
+El codigo 6 tiene la funcion de validar el formato de un numero flotante indicando si este es valido o no y el porque.
 
 ### **Requerimientos**
 Este codigo requiere de el codgio 5 "ValidInt" para funcionar correctamente
