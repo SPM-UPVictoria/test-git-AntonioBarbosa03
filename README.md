@@ -1,7 +1,9 @@
 # Codigos Wicked Cool Shell Scripts
 
-```bash
-#!/bin/bash
+### Alumno: Gerardo Airam Pérez Del Mazo
+### Matricula: 2130171
 
-echo Hallo >> hola.txt
-```
+<br>
+
+## **Listado de codigos:**
+### 1. [**Codigo 6: Valid Float**](Script6.md)
