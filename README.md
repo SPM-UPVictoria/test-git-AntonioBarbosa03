@@ -1,11 +1,7 @@
-# test-git-gapdm
-
-## hallo
+# Codigos Wicked Cool Shell Scripts
 
 ```bash
-
 #!/bin/bash
 
-echo hola amix >> hola.txt
-
+echo Hallo >> hola.txt
 ```
