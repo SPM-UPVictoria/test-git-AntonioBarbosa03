@@ -41,4 +41,4 @@ exec grep -i "$@" $locatedb
 
 ![Salida.png](Salida.png)
 
-**[Regresar](../README.md)**
+**[<- Regresar](../README.md)**

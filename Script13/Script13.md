@@ -67,4 +67,4 @@ exit 0
 
 ![Salida.png](Salida.png)
 
-**[Regresar](../README.md)**
+**[<- Regresar](../README.md)**

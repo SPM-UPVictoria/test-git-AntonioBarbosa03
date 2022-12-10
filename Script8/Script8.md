@@ -24,4 +24,4 @@ echon $*
 
 ![Salida.png](Salida.png)
 
-**[Regresar](../README.md)**
+**[<- Regresar](../README.md)**

@@ -18,4 +18,4 @@ No tiene requerimientos
 
 ![Salida.png](Salida.png)
 
-**[Regresar](../README.md)**
+**[<- Regresar](../README.md)**
