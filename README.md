@@ -11,3 +11,4 @@
 ### 3. [**Codigo 11: ANSIColor**](Script11/Script11.md)
 ### 4. [**Codigo 13: HiLow**](Script13/Script13.md)
 ### 5. [**Codigo 16: Removed File**](Script16/Script16.md)
+### 6. [**Codigo 19: Locale Database**](Script19/Script19.md)
