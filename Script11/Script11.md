@@ -1,4 +1,4 @@
-# Codigo 1: ANSIColor
+# Codigo 11: ANSIColor
 
 ## Funcionalidad
 Implementar comandos de ANSI para editar como se visualiza el texto en consola
@@ -9,7 +9,7 @@ No tiene requerimientos
 ### **Anotaciones**
 Cambie el cat >> EOF usado para imprimir por un echo -e
 
-### **[Codigo #: Title](scriptsrc)**
+### **[Codigo 11: ANSIColor](ANSIColor11.sh)**
 
 ```bash
 #!/bin/bash

@@ -9,7 +9,7 @@ No tiene requerimientos
 ### **Anotaciones**
 El codigo funciono directamente
 
-### **[Codigo #: Title](wrapingLine28.sh)**
+### **[Codigo 28: Wraping Line](wrapingLine28.sh)**
 
 ```bash
 #!/bin/bash
