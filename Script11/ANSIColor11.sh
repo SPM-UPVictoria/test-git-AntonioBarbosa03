@@ -1,17 +1,3 @@
-# Codigo 1: ANSIColor
-
-## Funcionalidad
-Implementar comandos de ANSI para editar como se visualiza el texto en consola
-
-### **Requerimientos**
-No tiene requerimientos
-
-### **Anotaciones**
-Cambie el cat >> EOF usado para imprimir por un echo -e
-
-### **[Codigo #: Title](scriptsrc)**
-
-```bash
 #!/bin/bash
 
 initializeANSI()
@@ -44,10 +30,3 @@ ${italicson}This is italics${italicsoff} and this is not
 ${ulon}This is ul${uloff} and this is not
 ${invon}This is inv${invoff} and this is not
 ${yellowf}${redb}Warning I ${yellowb}${redf}Warning II${reset}"
-```
-
-### **Salidas del codigo**
-
-![Salida.png](Salida.png)
-
-**[<- Regresar](../README.md)**
