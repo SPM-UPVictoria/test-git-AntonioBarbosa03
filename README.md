@@ -15,3 +15,8 @@
 ### 7. [**Codigo 22: Remind Me**](Script22/Script22.md)
 ### 8. [**Codigo 28: Wraping Line**](Script28/Script28.md)
 ### 9. [**Codigo 29: File Detalles**](Script29/Script29.md)
+### 10. [**Codigo 30: New Quota**](Script30/Script30.md)
+### 11. [**Codigo 31: Mi FTP**](Script31/Script31.md)
+### 12. [**Codigo 34: Compress Mejor**](Script34/Script34.md)
+### 13. [**Codigo 38: Disk Space**](Script38/Script38.md)
+### 14. [**Codigo 39: Locale Database**](Script39/Script39.md)
