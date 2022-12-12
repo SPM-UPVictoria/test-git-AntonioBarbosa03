@@ -1,11 +1,13 @@
 # Codigo 63: Seeing CGI Enviroment
 
 ## Funcionalidad
+Imprime el entorno de desarrollo en formato HTML
 
 ### **Requerimientos**
+No tiene requeirmientos
 
 ### **Anotaciones**
-
+Funciona
 
 ### **[Codigo 63: Seeing CGI Enviroment](showCGIenv63.sh)**
 
